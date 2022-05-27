@@ -1,3 +1,3 @@
-# Jio Dao Token
+# JioSwap Dao Token
 
-Coming soon...
+More Details on Jioswap Governance Token Coming soon..
