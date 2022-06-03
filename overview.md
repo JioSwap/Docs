@@ -24,7 +24,9 @@ Jioswap bridges aims to support most EVM compatible chains that meets the volume
 
 ## Why is Jio Important?
 
-If a DeFi user is looking to swap $100,000 USDC to fUSDT. Using the traditional AMM such as uniswap, pancakeswap, spooky swap etc..  you'd receive roughly $98690 fUSDT - losing $1310 in value. If you were to use Jioswap instead, you'd receive $99,652.234704 - almost zero slippage. Jioswap protocol is specifically designed for pegged assets, and as a result, it is much more efficient than an AMM such as Panacakeswap that is not optimized to do so.
+If a DeFi user is looking to swap $100,000 USDC to USDT , considering there’s sufficient amount of liquidity to do so. Using the traditional AMM such as Sushiswap, PancakeSwap, yokai swap etc. the minimum you’d receive would be roughly $98165.8 USDT and maximum would be around $98656.6 losing $1343.40 to $1834.2 in value. If you were to use Jioswap instead, you’d receive $99,849.8269 — almost zero slippage. Jio’s protocol is specifically designed for pegged assets, and as a result, it is much more efficient than an AMM such as Sushiswap that is not optimized to do so.
+
+![SWAPPING $100,000.00 USDC -> USDT ON SUSHI SWAP (on the LEFT) / SWAPPING $100,000.00 USDC -> USDT ON Jioswap(On the RIGHT)](.gitbook/assets/compare-jio-sushi.png)
 
 
 
