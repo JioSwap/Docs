@@ -11,7 +11,7 @@
 
 ## JIo's Network
 
-* [Supported Blockchains](jios-network/jio-forecast.md)
+* [Supported Blockchains](jios-network/supported-blockchains.md)
 * [Protocol Fees](jios-network/protocol-fees.md)
 
 ## API
