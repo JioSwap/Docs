@@ -9,6 +9,11 @@
 * [Jio Forecast](roadmap-and-governance/jio-forecast.md)
 * [Jio Dao Token](roadmap-and-governance/jio-dao-token.md)
 
+## JIo's Network
+
+* [Supported Blockchains](jios-network/jio-forecast.md)
+* [Protocol Fees](jios-network/protocol-fees.md)
+
 ## API
 
 * [Overview](api/overview.md)
