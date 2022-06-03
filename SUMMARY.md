@@ -22,8 +22,9 @@
     * [Entities](api/subgraphs/exchange/entities.md)
     * [Queries](api/subgraphs/exchange/queries.md)
 
-## Socials
+## Links & Socials
 
+* [🌐 Website](https://jioswap.finance)
 * [🐦 Twitter](https://twitter.com/jioswap)
 * [💬 Discord](https://discord.gg/nwp2f9FYsu)
 * [📧 Telegram](https://t.me/jio\_ann)
