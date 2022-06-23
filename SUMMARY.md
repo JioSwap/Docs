@@ -22,6 +22,30 @@
     * [Entities](api/subgraphs/exchange/entities.md)
     * [Queries](api/subgraphs/exchange/queries.md)
 
+## Contracts
+
+* [AMM](contracts/amm/README.md)
+  * [AmplificationUtils](contracts/amm/amplificationutils.md)
+  * [LPToken](contracts/amm/lptoken.md)
+  * [MathUtils](contracts/amm/mathutils.md)
+  * [OwnerPausableUpgradeable](contracts/amm/ownerpausableupgradeable.md)
+  * [Swap](contracts/amm/swap.md)
+  * [SwapEthWrapper](contracts/amm/swapethwrapper.md)
+  * [SwapFlashLoan](contracts/amm/swapflashloan.md)
+  * [SwapUtils](contracts/amm/swaputils.md)
+  * [SwapDeployer](contracts/amm/swapdeployer.md)
+  * [Helper](contracts/amm/helper/README.md)
+    * [BaseSwapDeposit](contracts/amm/helper/baseswapdeposit.md)
+    * [FlashLoanBorrowerExample](contracts/amm/helper/flashloanborrowerexample.md)
+    * [GenericERC20](contracts/amm/helper/genericerc20.md)
+    * [Multicall2](contracts/amm/helper/multicall2.md)
+  * [Interfaces](contracts/amm/interfaces/README.md)
+    * [IFlashLoanReceiver](contracts/amm/interfaces/iflashloanreceiver.md)
+    * [IMetaSwapDeposit](contracts/amm/interfaces/imetaswapdeposit.md)
+    * [ISwap](contracts/amm/interfaces/iswap.md)
+    * [IMetaSwap](contracts/amm/interfaces/imetaswap.md)
+    * [ISwapFlashLoan](contracts/amm/interfaces/iswapflashloan.md)
+
 ## Links & Socials
 
 * [🌐 Website](https://jioswap.finance)
