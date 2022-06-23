@@ -14,14 +14,6 @@
 * [Supported Blockchains](jios-network/supported-blockchains.md)
 * [Protocol Fees](jios-network/protocol-fees.md)
 
-## API
-
-* [Overview](api/overview.md)
-* [Subgraphs](api/subgraphs/README.md)
-  * [Exchange](api/subgraphs/exchange/README.md)
-    * [Entities](api/subgraphs/exchange/entities.md)
-    * [Queries](api/subgraphs/exchange/queries.md)
-
 ## Contracts
 
 * [AMM](contracts/amm/README.md)
@@ -46,6 +38,14 @@
     * [IMetaSwap](contracts/amm/interfaces/imetaswap.md)
     * [ISwapFlashLoan](contracts/amm/interfaces/iswapflashloan.md)
 * [Bridge](contracts/bridge.md)
+
+## API
+
+* [Overview](api/overview.md)
+* [Subgraphs](api/subgraphs/README.md)
+  * [Exchange](api/subgraphs/exchange/README.md)
+    * [Entities](api/subgraphs/exchange/entities.md)
+    * [Queries](api/subgraphs/exchange/queries.md)
 
 ## Links & Socials
 
