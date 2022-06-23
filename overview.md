@@ -3,7 +3,7 @@
 
 
 {% hint style="info" %}
-**Good to know:** Jioswap is designed for low-slippage trading of stablecoins and other pegged assets on Multiple Blockchains .enabling cheap, efficient, and swift swaps for traders and high-yield pools for Liquidity Providers (LPs). Jioswap allows its users to earn compound interest on their crypto holdings. For example if you have any amount of BTC, or USDT, USDC or any stable coin sitting  in your crypto wallet, you can provide it as liquidity on Jioswap and earn interest each time a trade happens on the platform. :tada:
+**Good to know:** Jioswap is designed for low-slippage trading of stablecoins and other pegged assets on Multiple Blockchains .enabling cheap, efficient, and swift swaps for traders and high-yield pools for Liquidity Providers (LPs). Jioswap allows its users to earn compound interest on their crypto holdings. For example if you have any amount of BTC, or USDT, USDC or any stable coin sitting  in your crypto wallet, you can provide it as liquidity on Jioswap and earn interest each time a trade happens on the platform.&#x20;
 {% endhint %}
 
 ## HIGHLIGHTS
