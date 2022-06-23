@@ -45,6 +45,7 @@
     * [ISwap](contracts/amm/interfaces/iswap.md)
     * [IMetaSwap](contracts/amm/interfaces/imetaswap.md)
     * [ISwapFlashLoan](contracts/amm/interfaces/iswapflashloan.md)
+* [Bridge](contracts/bridge.md)
 
 ## Links & Socials
 
