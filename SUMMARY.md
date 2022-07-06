@@ -51,7 +51,7 @@
 
 * [🌐 Website](https://jioswap.finance)
 * [🐦 Twitter](https://twitter.com/jioswap)
-* [💬 Discord](https://discord.gg/nwp2f9FYsu)
+* [💬 Discord](https://discord.gg/cXgH4BW7EB)
 * [📧 Telegram](https://t.me/jio\_ann)
 * [📸 Instagram](https://instagram.com/jioswap)
 * [🅱 Blog](https://jioswap.medium.com/)
