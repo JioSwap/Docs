@@ -1,13 +1,11 @@
-# Supported Blockchains
+# ⛓ Supported Blockchains
 
 ### A list of supported Chains in jio's ecosystem
 
 {% tabs %}
 {% tab title="Testnet" %}
-
-
-* [x] Godwoken&#x20;
-* [ ] Optimism&#x20;
+* [x] Godwoken
+* [ ] Optimism
 * [ ] Arbitrum
 * [x] Fantom
 * [x] Binance Smart chain
@@ -18,8 +16,8 @@
 {% endtab %}
 
 {% tab title="Mainnet" %}
-* [ ] Godwoken&#x20;
-* [ ] Optimism&#x20;
+* [ ] Godwoken
+* [ ] Optimism
 * [ ] Arbitrum
 * [ ] Fantom
 * [ ] Binance Smart chain
@@ -29,6 +27,3 @@
 * [ ] Aurora
 {% endtab %}
 {% endtabs %}
-
-
-

@@ -2,21 +2,21 @@
 
 * [😇 Jioswap!](README.md)
 * [Overview](overview.md)
-* [Jio's Algorithm](jios-algorithm.md)
+* [💻 Jio's Algorithm](jios-algorithm.md)
 
 ## Roadmap & Governance
 
-* [Jio Forecast](roadmap-and-governance/jio-forecast.md)
-* [Jio Dao Token](roadmap-and-governance/jio-dao-token.md)
+* [🛣 Jio Forecast](roadmap-and-governance/jio-forecast.md)
+* [🪙 Jio Token](roadmap-and-governance/jio-token.md)
 
 ## JIo's Network
 
-* [Supported Blockchains](jios-network/supported-blockchains.md)
-* [Protocol Fees](jios-network/protocol-fees.md)
+* [⛓ Supported Blockchains](jios-network/supported-blockchains.md)
+* [💸 Protocol Fees](jios-network/protocol-fees.md)
 
 ## Contracts
 
-* [AMM](contracts/amm/README.md)
+* [📈 AMM](contracts/amm/README.md)
   * [AmplificationUtils](contracts/amm/amplificationutils.md)
   * [LPToken](contracts/amm/lptoken.md)
   * [MathUtils](contracts/amm/mathutils.md)
@@ -37,7 +37,7 @@
     * [ISwap](contracts/amm/interfaces/iswap.md)
     * [IMetaSwap](contracts/amm/interfaces/imetaswap.md)
     * [ISwapFlashLoan](contracts/amm/interfaces/iswapflashloan.md)
-* [Bridge](contracts/bridge.md)
+* [🌉 Bridge](contracts/bridge.md)
 
 ## API
 
