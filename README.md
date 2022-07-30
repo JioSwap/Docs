@@ -14,7 +14,7 @@ description: >-
 
 ## Want to jump right in?
 
-Don't Feel like Reading?  feel free to join our [discord](https://discord.gg/nwp2f9FYsu) and ask questions , to learn from the community otherwise jump into the overview section :
+Don't Feel like Reading? feel free to join our [discord](https://discord.gg/cXgH4BW7EB) and ask questions , to learn from the community otherwise jump into the overview section :
 
 {% content-ref url="overview.md" %}
 [overview.md](overview.md)
