@@ -38,7 +38,7 @@
     * [IMetaSwap](contracts/amm/interfaces/imetaswap.md)
     * [ISwapFlashLoan](contracts/amm/interfaces/iswapflashloan.md)
 * [🌉 Bridge](contracts/bridge.md)
-* [Jiodex](contracts/jiodex.md)
+* [🤖 Jiodex](contracts/amm/jiodex.md)
 
 ## API
 
