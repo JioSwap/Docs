@@ -3,7 +3,6 @@
 * [😇 Jioswap!](README.md)
 * [Overview](overview.md)
 * [💻 Jio's Algorithm](jios-algorithm.md)
-* [🤖 Jiodex](jiodex.md)
 
 ## Roadmap & Governance
 
@@ -47,6 +46,11 @@
   * [Exchange](api/subgraphs/exchange/README.md)
     * [Entities](api/subgraphs/exchange/entities.md)
     * [Queries](api/subgraphs/exchange/queries.md)
+
+***
+
+* [OTHER PRODUCTS](other-products/README.md)
+  * [🤖 Jiodex](other-products/jiodex.md)
 
 ## Links & Socials
 
