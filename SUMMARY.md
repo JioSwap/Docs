@@ -3,6 +3,7 @@
 * [😇 Jioswap!](README.md)
 * [Overview](overview.md)
 * [💻 Jio's Algorithm](jios-algorithm.md)
+* [🤖 Jiodex](jiodex.md)
 
 ## Roadmap & Governance
 
@@ -38,7 +39,6 @@
     * [IMetaSwap](contracts/amm/interfaces/imetaswap.md)
     * [ISwapFlashLoan](contracts/amm/interfaces/iswapflashloan.md)
 * [🌉 Bridge](contracts/bridge.md)
-* [🤖 Jiodex](contracts/amm/jiodex.md)
 
 ## API
 
