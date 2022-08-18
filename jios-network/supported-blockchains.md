@@ -16,7 +16,7 @@
 {% endtab %}
 
 {% tab title="Mainnet" %}
-* [ ] Godwoken
+* [x] Godwoken
 * [ ] Optimism
 * [ ] Arbitrum
 * [ ] Fantom
