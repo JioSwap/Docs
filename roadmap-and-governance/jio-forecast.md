@@ -19,11 +19,11 @@ Note: Expect this roadmap to change / extended as more features and updates are 
 
 ### Jioswap Mainnet Checklist
 
-* [ ] Jioswap HFMM(Hybrid Function Market Maker / Stable swap \*\*\*\* )
-* [ ] Jioswap USD 3pool
+* [x] Jioswap HFMM(Hybrid Function Market Maker / Stable swap \*\*\*\* )
+* [x] Jioswap USD 3pool
 * [ ] JIoswap USD 4Pool
 * [ ] Jioswap BTC Pool
 * [ ] Jioswap ETH Pool
-* [ ] JioDex CPMM - (Constant Product Market Maker i.e Uniswap)
+* [x] JioDex CPMM - (Constant Product Market Maker i.e Uniswap)
 * [ ] JIoswap Cross-chain Bridge
 * [ ] Jioswap NFTs
