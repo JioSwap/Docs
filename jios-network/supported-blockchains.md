@@ -10,7 +10,7 @@
 * [ ] Fantom
 * [ ] Binance Smart chain
 * [ ] Rinkeby
-* [ ] Meter
+* [x] Meter
 * [ ] Emerald Paratime Oasis
 * [ ] Aurora
 {% endtab %}
