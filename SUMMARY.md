@@ -47,6 +47,10 @@
     * [Entities](api/subgraphs/exchange/entities.md)
     * [Queries](api/subgraphs/exchange/queries.md)
 
+## Security
+
+* [Audits](security/overview.md)
+
 ***
 
 * [OTHER PRODUCTS](other-products/README.md)
