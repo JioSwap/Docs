@@ -38,6 +38,7 @@
     * [IMetaSwap](contracts/amm/interfaces/imetaswap.md)
     * [ISwapFlashLoan](contracts/amm/interfaces/iswapflashloan.md)
 * [🌉 Bridge](contracts/bridge.md)
+* [🚀 Deployed Contracts](contracts/deployed-contracts.md)
 
 ## API
 
