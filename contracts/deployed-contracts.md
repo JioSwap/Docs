@@ -40,7 +40,7 @@
 ```
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="Meter" %}
 
 
 ```
