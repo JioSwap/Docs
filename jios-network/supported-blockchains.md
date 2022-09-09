@@ -5,6 +5,8 @@
 {% tabs %}
 {% tab title="Mainnet" %}
 * [x] Godwoken
+* [ ] Ethereum
+* [ ] Dogechain
 * [ ] Optimism
 * [ ] Arbitrum
 * [ ] Fantom
@@ -17,6 +19,7 @@
 
 {% tab title="Testnet" %}
 * [x] Godwoken
+* [x] Dogechain
 * [ ] Optimism
 * [ ] Arbitrum
 * [x] Fantom
