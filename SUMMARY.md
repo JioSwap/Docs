@@ -13,7 +13,7 @@
 
 * [⛓ Supported Blockchains](jios-network/supported-blockchains.md)
 * [💸 Protocol Fees](jios-network/protocol-fees.md)
-* [❓ FAQ](jios-network/faq.md)
+* [❓ FAQ](jios-network/protocol-fees-1.md)
 
 ## Contracts
 
