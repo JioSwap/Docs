@@ -9,11 +9,16 @@
 * [🛣 Jio Forecast](roadmap-and-governance/jio-forecast.md)
 * [🪙 Jio Token](roadmap-and-governance/jio-token.md)
 
+## Guides
+
+* [Provide Liquidity](guides/provide-liquidity.md)
+* [Staking Lp Tokens](guides/staking-lp-tokens.md)
+
 ## JIo's Network
 
 * [⛓ Supported Blockchains](jios-network/supported-blockchains.md)
 * [💸 Protocol Fees](jios-network/protocol-fees.md)
-* [❓ FAQ](jios-network/protocol-fees-1.md)
+* [❓ FAQ](jios-network/faq.md)
 
 ## Contracts
 
