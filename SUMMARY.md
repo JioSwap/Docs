@@ -13,6 +13,7 @@
 
 * [Provide Liquidity](guides/provide-liquidity.md)
 * [Staking Lp Tokens](guides/staking-lp-tokens.md)
+* [How to Flash-loan](guides/how-to-flash-loan.md)
 
 ## JIo's Network
 
