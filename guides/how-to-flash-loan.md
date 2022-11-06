@@ -11,7 +11,7 @@ function flashLoan(
 ) external;
 ```
 
-Caller must provide a valid receiver address that inherits [IFlashLoanReceiver interface](https://github.com/JioSwap/jio-contracts/blob/dev/contracts/interfaces/IFlashLoanReceiver.sol).
+Caller must provide a valid receiver address that inherits [IFlashLoanReceiver interface](https://github.com/JioSwap/jioswap-contract/blob/main/contracts/interfaces/IFlashLoanReceiver.sol).
 
 ```
 function executeOperation(
@@ -25,7 +25,7 @@ function executeOperation(
 
 Upon finishing `executeOperation`, the pool must have the initial liquidity back along with the associated fee. If the requirement is not met, then the transaction will fail.
 
-We provide a [basic example of a flashloan borrower contract](https://github.com/JioSwap/jio-contracts/blob/dev/contracts/helper/FlashLoanBorrowerExample.sol).
+We provide a [basic example of a flashloan borrower contract](https://github.com/JioSwap/jioswap-contract/blob/main/contracts/helper/FlashLoanBorrowerExample.sol).
 
 
 
