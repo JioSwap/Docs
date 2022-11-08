@@ -59,6 +59,7 @@
 
 * [KYC VERIFIED](security/kyc-verified.md)
 * [Audits](security/overview.md)
+* [Risk](security/risk.md)
 
 ***
 
