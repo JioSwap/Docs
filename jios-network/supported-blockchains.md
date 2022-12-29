@@ -5,7 +5,7 @@
 {% tabs %}
 {% tab title="Mainnet" %}
 * [x] Godwoken
-* [ ] Ethereum
+* [x] Ethereum
 * [ ] Dogechain
 * [ ] Optimism
 * [ ] Arbitrum
