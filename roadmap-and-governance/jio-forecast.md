@@ -22,8 +22,8 @@ Note: Expect this roadmap to change / extended as more features and updates are 
 * [x] Jioswap HFMM(Hybrid Function Market Maker / Stable swap \*\*\*\* )
 * [x] Jioswap USD 3pool
 * [x] JIoswap USD 4Pool
-* [ ] Jioswap BTC Pool
+* [x] Jioswap BTC Pool
 * [x] Jioswap ETH Pool
 * [x] JioDex CPMM - (Constant Product Market Maker i.e Uniswap)
-* [ ] JIoswap Cross-chain Bridge
+* [x] JIoswap Cross-chain Bridge
 * [ ] Jioswap NFTs
