@@ -12,9 +12,9 @@ Note: Expect this roadmap to change / extended as more features and updates are 
 * [x] Jioswap USD 3pool
 * [x] JIoswap USD 4Pool
 * [x] Jioswap BTC Pool
-* [ ] Jioswap ETH Pool
-* [ ] JioDex CPMM - (Constant Product Market Maker i.e Uniswap)
-* [ ] JIoswap Cross-chain Bridge
+* [x] Jioswap ETH Pool
+* [x] JioDex CPMM - (Constant Product Market Maker i.e Uniswap)
+* [x] JIoswap Cross-chain Bridge
 * [ ] Jioswap NFTs
 
 ### Jioswap Mainnet Checklist
