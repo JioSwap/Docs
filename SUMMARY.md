@@ -3,6 +3,7 @@
 * [😇 Jioswap!](README.md)
 * [Overview](overview.md)
 * [💻 Jio's Algorithm](jios-algorithm.md)
+* [Charts](charts.md)
 
 ## Roadmap & Governance
 
